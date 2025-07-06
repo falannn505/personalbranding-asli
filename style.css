@@ -38,7 +38,7 @@ html {
 /* Mobile menu dropdown */
 .menu-links {
   display: none;
-  position: absolute;
+  position: fixed;
   top: 70px; /* just below navbar */
   right: 20px;
   background-color: #fff;
